@@ -18,6 +18,7 @@ Before starting this workshop, complete this Microsoft Learn module to build you
 
 **Required Module:**
 [Introduction to Computer Vision - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/?wt.mc_id=studentamb_264805)
+
 [Introduction to Machine Learning - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/?wt.mc_id=studentamb_264805)
 
 Duration: 15-20 minutes
